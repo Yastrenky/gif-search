@@ -1,0 +1,18 @@
+
+
+.form-conatiner {
+  text-align: center;
+  margin-top: 80px;
+  padding: 40px;
+}
+.gif-container{
+  height: auto;
+  display: block;
+  margin: 10px;
+
+}
+.gif-container img{
+
+  height: 105px;
+  margin: 10px;
+}
